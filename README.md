@@ -37,4 +37,3 @@ Substitute
 Trigger
 
 <img width="217" alt="Screen Shot 2021-07-24 at 6 29 48 PM" src="https://user-images.githubusercontent.com/6618158/126865759-0d6e3289-32c5-4293-b99d-7bc232c90862.png">
-
